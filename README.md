@@ -39,6 +39,7 @@ water_leak_detection_comparison/
 ├── README.md # Project documentation
 └── requirements.txt # Python dependencies
 """
+
 ---
 
 ## ⚙️ Installation
