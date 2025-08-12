@@ -25,7 +25,7 @@ In this project, we:
 ## 📂 Directory Structure
 
 water_leak_detection_comparison/
-"""
+'''
 │
 ├── discretization/ # Discretized datasets
 ├── rules_learned/ # Extracted rules (CSV format)
@@ -38,7 +38,7 @@ water_leak_detection_comparison/
 ├── utils/ # Utility functions (database connection, INP parsing)
 ├── README.md # Project documentation
 └── requirements.txt # Python dependencies
-"""
+'''
 
 ---
 
