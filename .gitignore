@@ -1,0 +1,37 @@
+# 忽略虚拟环境
+.venv/
+
+# 忽略临时文件和缓存
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# 忽略实验输出目录
+classification_reports/
+classfication_reports/   # 注意你的拼写有两个版本
+discretization/
+rules_learned/
+rules_stats/
+outputs_fpgrowth_cba/
+old_version/
+Scenario-10/
+selected_sensors/
+version1/
+version2/
+visualizations/
+
+# 忽略数据文件（防止上传大文件）
+*.csv
+*.xlsx
+*.parquet
+*.h5
+*.zip
+*.tar.gz
+
+# 忽略系统文件
+.DS_Store
+Thumbs.db
+discretization/scenario2_discretized.csv
