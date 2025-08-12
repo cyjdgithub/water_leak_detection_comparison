@@ -1,0 +1,5 @@
+IF flow_Link_32:=:flow_Link_32=(-579.601, -532.8] THEN class:=:class=1 (conf=0.348, supp=1.000)
+IF flow_Link_30:=:flow_Link_30=(-442.801, -284.4] THEN class:=:class=1 (conf=0.339, supp=1.000)
+IF flow_Link_23:=:flow_Link_23=(2566.8, 3733.2] THEN class:=:class=1 (conf=0.332, supp=1.000)
+IF flow_Link_23:=:flow_Link_23=(2566.8, 3733.2] ∧ flow_Link_32:=:flow_Link_32=(-579.601, -532.8] THEN class:=:class=1 (conf=0.330, supp=1.000)
+IF flow_Link_29:=:flow_Link_29=(79.199, 244.8] THEN class:=:class=0 (conf=0.328, supp=0.975)
